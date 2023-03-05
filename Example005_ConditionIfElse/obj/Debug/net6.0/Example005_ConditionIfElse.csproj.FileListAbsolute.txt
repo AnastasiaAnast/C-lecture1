@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/refint/Example005_ConditionIfElse.dll
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
