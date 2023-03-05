@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
