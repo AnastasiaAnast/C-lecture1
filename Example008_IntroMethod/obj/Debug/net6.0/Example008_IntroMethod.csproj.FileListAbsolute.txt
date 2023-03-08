@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/bin/Debug/net6.0/Example008_IntroMethod
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/bin/Debug/net6.0/Example008_IntroMethod.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/bin/Debug/net6.0/Example008_IntroMethod.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/bin/Debug/net6.0/Example008_IntroMethod.dll
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/bin/Debug/net6.0/Example008_IntroMethod.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.dll
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/refint/Example008_IntroMethod.dll
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/Example008_IntroMethod.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example008_IntroMethod/obj/Debug/net6.0/ref/Example008_IntroMethod.dll
