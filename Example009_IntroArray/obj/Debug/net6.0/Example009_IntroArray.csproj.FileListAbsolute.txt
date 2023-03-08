@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.dll
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.dll
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/refint/Example009_IntroArray.dll
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example009_IntroArray/obj/Debug/net6.0/ref/Example009_IntroArray.dll
