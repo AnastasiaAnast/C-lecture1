@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
