@@ -1,0 +1,15 @@
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/bin/Debug/net6.0/Example012_Methods
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/bin/Debug/net6.0/Example012_Methods.deps.json
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/bin/Debug/net6.0/Example012_Methods.runtimeconfig.json
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/bin/Debug/net6.0/Example012_Methods.dll
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/bin/Debug/net6.0/Example012_Methods.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.csproj.AssemblyReference.cache
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.AssemblyInfoInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.AssemblyInfo.cs
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.csproj.CoreCompileInputs.cache
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.dll
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/refint/Example012_Methods.dll
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.pdb
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/Example012_Methods.genruntimeconfig.cache
+/Users/nastasia/Desktop/C# Лекция1/Example012_Methods/obj/Debug/net6.0/ref/Example012_Methods.dll
